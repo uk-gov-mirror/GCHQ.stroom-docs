@@ -16,6 +16,7 @@
 
 * [Architecture & Deployment](install-guide/stroom-6-architecture.md)
 * [Installing Stroom](install-guide/stroom-app-install.md)
+* [Installing Stroom Proxy v7](install-guide/Stroom-7-Proxy-Installation.md)
 * Setup
   * [Apache forwarding](install-guide/setup/apache-forwarding.md)
   * [Java key store setup](install-guide/setup/java-key-store-setup.md)
@@ -125,9 +126,10 @@
   * [Create Reference Feed](HOWTOs/ReferenceFeeds/CreateSimpleReferenceFeed.md)
 * Administration
   * [System Properties](HOWTOs/Administration/SystemProperties.md)
-* Search
+* Indexing and Search
   * [Search API using bash](HOWTOs/Search/SearchFromBash.md)
-  * [Simple Solr integration](HOWTOs/Search/SimpleSolr.md)
+  * [Elasticsearch integration](HOWTOs/Search/Elasticsearch.md)
+  * [Solr integration](HOWTOs/Search/Solr.md)
 
 
 ### 5. Stroom Proxy
